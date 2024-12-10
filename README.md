@@ -1,10 +1,7 @@
 # Hi there, I'm Jonny Blevins
 
 - 🔭 I’m currently working on AI Agents with ![PlantGirlCodes](https://github.com/plantgirlcodes).
-- 🌱 I’m currently learning Hugging Face and Langchain through ![Udemy](https://www.udemy.com/course/chatgpt-and-langchain-the-complete-developers-masterclass/).
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have gone from teacher in alternative spaces (halfway houses, jails, prisons, etc.) to construction project manager (major U.S. projects), to tech-guy.
+- 🌱 I’m currently learning IT Support through ![Per Scholas](https://perscholas.org/)
 
 <center>
 
@@ -15,7 +12,6 @@
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
   
-  ![Online](https://img.shields.io/badge/Status-Online-brightgreen?style=flat-square)
 </center>
 
 ### About Me 🧑‍💻

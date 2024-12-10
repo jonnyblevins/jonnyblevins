@@ -1,7 +1,9 @@
 # Hi there, I'm Jonny Blevins
 
-- 🌱 I’m currently building AI Agents with [![PlantGirlCodes](https://img.shields.io/badge/PlantGirlCodes-%20-lightgreen?style=flat-square&logo=github)](https://github.com/plantgirlcodes).
+Currently I'm . . .
+- 🌱 Building AI Agents with [![PlantGirlCodes](https://img.shields.io/badge/PlantGirlCodes-%20-lightgreen?style=flat-square&logo=github)](https://github.com/plantgirlcodes)
 - 🔭 Training for IT Support (CompTIA+) through [![Per Scholas](https://img.shields.io/badge/Per_Scholas-%20-blue?style=flat-square&logo=education)](https://perscholas.org/)
+- 🎮 Developing a videogame with [![Sunday Scaries](https://img.shields.io/badge/Sunday_Scaries-%20-purple?style=flat-square&logo=github)](https://github.com/Sunday-Scaries/witch-hat)
 
 <center>
 

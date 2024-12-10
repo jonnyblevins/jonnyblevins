@@ -1,11 +1,11 @@
 # Hi there, I'm Jonny Blevins
 
-Currently I'm . . .
-- [![PlantGirlCodes](https://img.shields.io/badge/PlantGirlCodes-%20-lightgreen?style=flat-square&logo=github)](https://github.com/plantgirlcodes) 🌱 Building AI Agents with
-- [![Per Scholas](https://img.shields.io/badge/Per_Scholas-%20-blue?style=flat-square&logo=education)](https://perscholas.org/) 🔭 Training for IT Support (CompTIA+) through
-- [![Sunday Scaries](https://img.shields.io/badge/Sunday_Scaries-%20-purple?style=flat-square&logo=github)](https://github.com/Sunday-Scaries/witch-hat) 🎮 Developing a videogame with
+Currently I'm work with . . .
+- 🌱 [![PlantGirlCodes](https://img.shields.io/badge/PlantGirlCodes-%20-lightgreen?style=flat-square&logo=github)](https://github.com/plantgirlcodes) to building AI Agents.
+- 🔭 [![Per Scholas](https://img.shields.io/badge/Per_Scholas-%20-blue?style=flat-square&logo=education)](https://perscholas.org/) training for IT Support (CompTIA+).
+- 🎮 [![Sunday Scaries](https://img.shields.io/badge/Sunday_Scaries-%20-purple?style=flat-square&logo=github)](https://github.com/Sunday-Scaries/witch-hat) to develop a videogame.
 
-
+### Tech Stack
 <center>
 
   ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -17,33 +17,23 @@ Currently I'm . . .
   
 </center>
 
-### About Me 🧑‍💻
+### About
 
-- Project Manager / Data Analyst with hands-on experience in SQL, Python, Spark, and Google Cloud.
-- Professionally interested in building scalable systems, streamlining data processes, and working with modern development frameworks.
-- I love finding patterns, and transforming complex challenges into actionable solutions.
-
----
-
-### Current Projects 📂
-
-- **Breaking Plaid**: A data science group working on cutting-edge AI and machine learning concepts.
-- **Card Game Development**: Working on a unique card game featuring GDScript.
-- **PEZZO Project**: A data-driven project focused on AI, Python, and data processing.
+- Project Manager / Data Analyst with hands-on experience in Technical Project Management.
+- Professionally interested in streamlining data processes, scalable systems, and modern development frameworks.
+- I love finding patterns and working with them.
 
 ---
 
-### Connect with Me 🌍
+### Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jonnyblevins/)
 - 🌐 [Personal Website](https://jonnyblevins.com)
-- 📧 [Email](mailto:blevinsjonny@gmail.com)
-- 🧑‍💻 [GitHub](https://github.com/jonnyblevins)
 
 ---
 
-### Fun Facts 🎉
+### Fun Facts
 
-- I can speak Spanish and a good bit of Chinese.
-- I am part of a mod hack group called ![Final Fantasy Hacktics](https://ffhacktics.com/), working on fun, fan-made projects.
-- Currently, I'm developing a game in **Godot** with friends who helped me survive Covid.
+- I am part of a mod hack group called ![Final Fantasy Hacktics](https://ffhacktics.com/). We work on thoughtful, fan-made projects.
+- I speak Spanish and a decent amount of Chinese.
+- I'm in the alphabet mafia. 🌈

@@ -33,6 +33,6 @@ Currently I'm working with . . .
 
 ### Fun Facts
 
-- I am part of a mod hack group called ![Final Fantasy Hacktics](https://ffhacktics.com/). We work on thoughtful, fan-made projects.
+- I am part of a mod hack group called [![Final Fantasy Hacktics](https://img.shields.io/badge/Final_Fantasy_Hacktics-%20-blue?style=flat-square&logo=gamepad)](https://ffhacktics.com/). We work on thoughtful, fan-made projects.
 - I speak Spanish and a decent amount of Chinese.
 - I'm in the alphabet mafia. 🌈

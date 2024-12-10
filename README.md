@@ -1,6 +1,6 @@
-# Ahoy! 🏴‍☠️
+# 🏴‍☠️ Ahoy! 🏴‍☠️
 
-Reach out if you also love to notice patterns and work with them!
+Thanks for stopping by. I'm Jonny.
 
 ---
 

@@ -1,7 +1,7 @@
 # Hi there, I'm Jonny Blevins
 
-- 🔭 I’m currently working on AI Agents with ![PlantGirlCodes](https://github.com/plantgirlcodes).
-- 🌱 I’m currently learning IT Support through ![Per Scholas](https://perscholas.org/)
+- 🌱 I’m currently building AI Agents with [![PlantGirlCodes](https://img.shields.io/badge/PlantGirlCodes-%20-lightgreen?style=flat-square&logo=github)](https://github.com/plantgirlcodes).
+- 🔭 Training for IT Support (CompTIA+) through [![Per Scholas](https://img.shields.io/badge/Per_Scholas-%20-blue?style=flat-square&logo=education)](https://perscholas.org/)
 
 <center>
 

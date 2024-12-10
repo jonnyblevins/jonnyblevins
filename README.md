@@ -1,9 +1,5 @@
 # Hi there, I'm Jonny Blevins
 
----
-
-### About
-
 - Project Manager / Data Analyst with hands-on experience in Technical Project Management.
 - Professionally interested in streamlining data processes, scalable systems, and modern development frameworks.
 - I love finding patterns and working with them.

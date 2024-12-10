@@ -1,8 +1,6 @@
-# Hi there, I'm Jonny Blevins
+# Ahoy! 🏴‍☠️
 
-- Project Manager / Data Analyst with hands-on experience in Technical Project Management.
-- Interested in streamlining data processes, scalable systems, and modern development frameworks.
-- Love finding patterns and working with them.
+Reach out if you also love to notice patterns and work with them!
 
 ---
 
@@ -27,7 +25,7 @@ Currently I'm working with . . .
 
 - I am part of a mod hack group called [![Final Fantasy Hacktics](https://img.shields.io/badge/Final_Fantasy_Hacktics-%20-red?style=flat-square&logo=gamepad)](https://ffhacktics.com/). We work on thoughtful, fan-made projects.
 - I speak Spanish and a decent amount of Chinese.
-- Watch out, I'm in the alphabet mafia. 🌈
+- Watch out; I'm in the alphabet mafia. 🌈🥷🏻🥷🏼🥷🏽🥷🏾🥷🏿
 
 ---
 

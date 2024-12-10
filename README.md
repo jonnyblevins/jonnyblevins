@@ -6,8 +6,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have gone from teacher in alternative spaces (halfway houses, jails, prisons, etc.) to construction project manager (major U.S. projects), to tech-guy.
 
-<div align="center">
-  <p>Tech Stack and Tools</p>
+<center>
+  <p>And Passionate about</p>
   ![HTML](https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
   ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -16,7 +16,7 @@
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
   <p><strong>jonnyblevins</strong> online</p>
-</div>
+</center>
 
 ### About Me 🧑‍💻
 

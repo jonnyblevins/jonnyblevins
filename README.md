@@ -4,7 +4,7 @@ Thanks for stopping by. This is Jonny's Github page.
 
 ---
 
-### Tech Stack You'll Find Here
+### Tech You'll Find Here
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white)

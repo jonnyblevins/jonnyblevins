@@ -8,7 +8,6 @@ Thanks for stopping by. This is Jonny's Github page.
 
 ---
 <p align="center">
-  
 ### Tech You'll Find Here
 </p>
 

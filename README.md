@@ -15,7 +15,7 @@ Thanks for stopping by. This is Jonny's Github page.
 
 Currently I'm working with . . .
 - 🌱 [![PlantGirlCodes](https://img.shields.io/badge/PlantGirlCodes-%20-lightgreen?style=flat-square&logo=github)](https://github.com/plantgirlcodes) on building AI Agents
-- 🔭 [![Per Scholas](https://img.shields.io/badge/Per_Scholas-%20-blue?style=flat-square&logo=education)](https://perscholas.org/) for training in IT Support (CompTIA+)
+- 🖥️ [![Per Scholas](https://img.shields.io/badge/Per_Scholas-%20-blue?style=flat-square&logo=education)](https://perscholas.org/) for training in IT Support (CompTIA+)
 - 🎮 [![Sunday Scaries](https://img.shields.io/badge/Sunday_Scaries-%20-purple?style=flat-square&logo=github)](https://github.com/Sunday-Scaries/witch-hat) to develop a fully realized videogame
 
 ---
@@ -24,13 +24,13 @@ Currently I'm working with . . .
 
 - I am part of a mod hack group called [![Final Fantasy Hacktics](https://img.shields.io/badge/Final_Fantasy_Hacktics-%20-red?style=flat-square&logo=gamepad)](https://ffhacktics.com/). We work on thoughtful, fan-made projects.
 - I speak Spanish and a decent amount of Chinese.
-- 🌈🥷🏻🥷🏼🥷🏽🥷🏾🥷🏿
+- 🤠🏋🏻‍♂️🌈🎾🐊🥷🏻🛫🌵📷
 
 ---
 
 ### Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jonnyblevins/)
-- 🌐 [Personal Website](https://jonnyblevins.com)
+- [LinkedIn](https://www.linkedin.com/in/jonnyblevins/)
+- [Personal Website](https://jonnyblevins.com)
 
 ---

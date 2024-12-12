@@ -1,4 +1,4 @@
-# 🏴‍☠️ Howdy! 🏴‍☠️
+# (◕‿◕)
 
 Thanks for stopping by. This is Jonny's Github page.
 
@@ -24,7 +24,7 @@ Currently I'm working with . . .
 
 - I am part of a mod hack group called [![Final Fantasy Hacktics](https://img.shields.io/badge/Final_Fantasy_Hacktics-%20-red?style=flat-square&logo=gamepad)](https://ffhacktics.com/). We work on thoughtful, fan-made projects.
 - I speak Spanish and a decent amount of Chinese.
-- 🤠🏋🏻‍♂️🌈🎾🐊🥷🏻🛫🌵📷
+- I love emojis, emoticons, all of it. 🤠🏋🏻‍♂️🌈🎾🐊🥷🏻🛫🌵📷
 
 ---
 

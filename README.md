@@ -1,16 +1,15 @@
-# 🏴‍☠️ Ahoy! 🏴‍☠️
+# 🏴‍☠️ Howdy! 🏴‍☠️
 
-Thanks for stopping by. I'm Jonny.
+Thanks for stopping by. This is Jonny's Github page.
 
 ---
 
-### Tech Stack
+### Tech Stack You'll Find Here
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -25,7 +24,7 @@ Currently I'm working with . . .
 
 - I am part of a mod hack group called [![Final Fantasy Hacktics](https://img.shields.io/badge/Final_Fantasy_Hacktics-%20-red?style=flat-square&logo=gamepad)](https://ffhacktics.com/). We work on thoughtful, fan-made projects.
 - I speak Spanish and a decent amount of Chinese.
-- Watch out; I'm in the alphabet mafia. 🌈🥷🏻🥷🏼🥷🏽🥷🏾🥷🏿
+- 🌈🥷🏻🥷🏼🥷🏽🥷🏾🥷🏿
 
 ---
 

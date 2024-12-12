@@ -1,6 +1,8 @@
 # (◕‿◕)
 
-Thanks for stopping by. This is Jonny's Github page.
+<p align="center">
+// Thanks for stopping by. This is Jonny's Github page. 
+</p>
 
 ---
 

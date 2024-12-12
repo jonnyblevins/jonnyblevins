@@ -10,13 +10,15 @@ Thanks for stopping by. This is Jonny's Github page.
 <p align="center">
   
 ### Tech You'll Find Here
+</p>
+
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-</p>
+
 
 ---
 

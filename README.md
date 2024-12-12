@@ -1,7 +1,9 @@
-# (◕‿◕)
+<p align="center">
+  # (◕‿◕)
+</p>
 
 <p align="center">
-// Thanks for stopping by. This is Jonny's Github page. 
+Thanks for stopping by. This is Jonny's Github page. 
 </p>
 
 ---

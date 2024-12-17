@@ -33,10 +33,3 @@ Currently I'm working with . . .
 - I love emojis, emoticons, all of it. 🤠🏋🏻‍♂️🌈🎾🐊🥷🏻🛫🌵📷
 
 ---
-
-### Connect
-
-- [LinkedIn](https://www.linkedin.com/in/jonnyblevins/)
-- [Personal Website](https://jonnyblevins.com)
-
----

@@ -30,4 +30,4 @@ Currently I'm working with . . .
 
 - I work with a mod hack team on thoughtful, fan-made projects at [![Final Fantasy Hacktics](https://img.shields.io/badge/Final_Fantasy_Hacktics-%20-red?style=flat-square&logo=gamepad)](https://ffhacktics.com/).
 - I speak Spanish and a decent amount of Chinese.
-- I love emojis, emoticons, grateful for the images that quickly communicate the emotions behind what I want to say. Interests: 🤠🏋🏻‍♂️🌈🎾🐊🥷🏻🛫🌵📷
+- I am grateful for emojis which quickly communicate what I want to say. Interests: 🤠🏋🏻‍♂️🌈🎾🐊🥷🏻🛫🌵📷

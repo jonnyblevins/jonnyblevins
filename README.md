@@ -7,7 +7,7 @@ Thanks for stopping by Jonny's Github page.
 </p>
 
 ---
-### Tech Projects You'll Find Here
+### Tech Projects You'll Find
 
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)

@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Thanks for stopping by Jonny's Github page. 
+Thanks for stopping in. 
 </p>
 
 ---

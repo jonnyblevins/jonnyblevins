@@ -17,7 +17,6 @@ Thanks for stopping in!
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![GDScript](https://img.shields.io/badge/-GDScript-3581B8?style=flat-square&logo=godotengine&logoColor=white)](https://godotengine.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 
 
 

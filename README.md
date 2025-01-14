@@ -14,10 +14,11 @@ Thanks for stopping in!
 ![HTML](https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-c93452?style=flat-square&logo=css3&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-37ab5d?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GDScript](https://img.shields.io/badge/-GDScript-3581B8?style=flat-square&logo=godotengine&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 
 
 

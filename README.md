@@ -9,13 +9,9 @@ Thanks for dropping by.
 ---
 ### Programming Languages You Can Find Here:
 
-[![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![HTML](https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-c93452?style=flat-square&logo=css3&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Python](https://img.shields.io/badge/-Python-37ab5d?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![GDScript](https://img.shields.io/badge/-GDScript-3581B8?style=flat-square&logo=godotengine&logoColor=white)](https://godotengine.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jonnyblevins/JonnyBlevins.Codes/main/images/Banner.png" alt="Banner Image">
+</p>
 
 
 images/Banner.png

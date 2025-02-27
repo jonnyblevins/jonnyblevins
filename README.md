@@ -7,7 +7,7 @@ Thanks for dropping by.
 </p>
 
 ---
-### Programming Languages You Can Find Here:
+### Programming Languages:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jonnyblevins/JonnyBlevins.Codes/main/images/Banner.png" alt="Banner Image">

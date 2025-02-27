@@ -12,7 +12,7 @@ Thanks for dropping by.
 <p align="center">
   <img src="https://raw.githubusercontent.com/jonnyblevins/JonnyBlevins.Codes/main/images/Banner.png" alt="Banner Image">
 </p>
-<center> SQL  PostgreSQL  HTML  Javascript  CSS  Godot  Python </center>
+<p align="center"> SQL  PostgreSQL  HTML  Javascript  CSS  Godot  Python </p>
 
 ---
 

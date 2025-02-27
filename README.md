@@ -13,9 +13,6 @@ Thanks for dropping by.
   <img src="https://raw.githubusercontent.com/jonnyblevins/JonnyBlevins.Codes/main/images/Banner.png" alt="Banner Image">
 </p>
 
-
-images/Banner.png
-
 ---
 
 ### People and organizations I'm currently working with:

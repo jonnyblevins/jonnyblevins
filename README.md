@@ -7,7 +7,7 @@ Thanks for dropping by.
 </p>
 
 ---
-### Programming Languages:
+### Languages:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jonnyblevins/JonnyBlevins.Codes/main/images/BannerEdited.png" alt="Banner Image">

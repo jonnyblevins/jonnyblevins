@@ -9,9 +9,9 @@ Thanks for dropping by.
 ---
 ### Programming Languages:
 
-<p align="center">
+
   <img src="https://raw.githubusercontent.com/jonnyblevins/JonnyBlevins.Codes/main/images/BannerEdited.png" alt="Banner Image">
-</p>
+
 <p align="center"> SQL  PostgreSQL  HTML  Javascript  CSS  Godot  Python </p>
 
 ---

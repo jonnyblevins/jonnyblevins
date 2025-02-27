@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Thanks for stopping by.
+Thanks for dropping by.
 </p>
 
 ---

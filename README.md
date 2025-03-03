@@ -25,5 +25,5 @@ Thanks for dropping by.
 ### Fun:
 
 - I work with a mod hack team on thoughtful, fan-made projects at [![Final Fantasy Hacktics](https://img.shields.io/badge/Final_Fantasy_Hacktics-%20-yellow?style=flat-square&logo=gamepad)](https://ffhacktics.com/) .
-- I speak Spanish and a decent amount of Chinese.
+- I speak Spanish and a decent amount of Chinese. Le doy al español y 一点中文.
 - I am grateful for emojis which quickly communicate what I want to say. 🤠🏋🏻‍♂️🎾🐊🥷🏻🛫🌵📷🌈

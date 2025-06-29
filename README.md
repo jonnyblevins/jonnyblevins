@@ -6,7 +6,7 @@
 Thanks for dropping by!
 </p>
 <p align="center">
-I've been contributing less to my GitHub as I learn the new IT role. 
+I've been contributing less to my GitHub as I learn the new IT role, but I'm still here!
 </p>
 <p align="center">
 Most notably, I've been learning about live video production with the Pearl Mini. 

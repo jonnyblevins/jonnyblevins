@@ -5,7 +5,7 @@
 <p align="center">
 Thanks for dropping by!
 </p>
-Currently I work as an IT guy. I've been learning about live video production with the Pearl Mini. I've been contributing less to my GitHub as I learn the new job and study the ServiceNow platform.
+Currently I work as an IT guy. I've been learning about live video production with the Pearl Mini. I've been contributing less to my GitHub as I learn the new job.
 </p>
 
 ---
@@ -19,7 +19,7 @@ Currently I work as an IT guy. I've been learning about live video production wi
 
 ### People:
 - 🌱 [![PlantGirlCodes](https://img.shields.io/badge/PlantGirlCodes-%20-lightgreen?style=flat-square&logo=github)](https://github.com/plantgirlcodes) on implementing various professional projects and the endless pursuit of knowledge
-- 🖥️ [![Per Scholas](https://img.shields.io/badge/Per_Scholas-%20-blue?style=flat-square&logo=education)](https://perscholas.org/) for various alumni courses after training in IT Support (CompTIA+)
+- 🖥️ [![Per Scholas](https://img.shields.io/badge/Per_Scholas-%20-blue?style=flat-square&logo=education)](https://perscholas.org/) for the ServiceNow alumni courses after completing training in IT Support (CompTIA+)
 - 🎮 [![Sunday Scaries](https://img.shields.io/badge/Sunday_Scaries-%20-orange?style=flat-square&logo=github)](https://github.com/Sunday-Scaries/witch-hat) to develop small video games and a full-fledged card-based RPG
 
 ---

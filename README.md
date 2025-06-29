@@ -6,7 +6,10 @@
 Thanks for dropping by!
 </p>
 <p>
-I've been contributing less to my GitHub as I learn the new IT role. Most notably, I've been learning about live video production with the Pearl Mini. 
+I've been contributing less to my GitHub as I learn the new IT role. 
+</p>
+<p>
+Most notably, I've been learning about live video production with the Pearl Mini. 
 </p>
 
 ---
@@ -28,5 +31,5 @@ I've been contributing less to my GitHub as I learn the new IT role. Most notabl
 ### Fun:
 
 - I work with a mod hack team on thoughtful, fan-made projects at [![Final Fantasy Hacktics](https://img.shields.io/badge/Final_Fantasy_Hacktics-%20-yellow?style=flat-square&logo=gamepad)](https://ffhacktics.com/) .
-- I speak Spanish and a decent amount of Chinese. Le doy al español y 一点中文 .
+- I speak Spanish and a decent amount of Chinese. Le doy al español y 一点中文 . Learning Japanese!
 - I am grateful for emojis which quickly communicate what I want to say. 🤠🏋🏻‍♂️🎾🐊🛫📷🌈🌵

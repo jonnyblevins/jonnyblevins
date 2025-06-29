@@ -5,7 +5,8 @@
 <p align="center">
 Thanks for dropping by!
 </p>
-Currently I work as an IT guy. I've been learning about live video production with the Pearl Mini. I've been contributing less to my GitHub as I learn the new job.
+<p>
+I've been contributing less to my GitHub as I learn the new IT role. Most notably, I've been learning about live video production with the Pearl Mini. 
 </p>
 
 ---

@@ -5,10 +5,10 @@
 <p align="center">
 Thanks for dropping by!
 </p>
-<p>
+<p align="center">
 I've been contributing less to my GitHub as I learn the new IT role. 
 </p>
-<p>
+<p align="center">
 Most notably, I've been learning about live video production with the Pearl Mini. 
 </p>
 
